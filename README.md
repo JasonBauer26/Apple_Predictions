@@ -20,7 +20,7 @@ Now that I have performed the differencing technique, I will once again use the 
 
 A p-value of 1.04e-22 is well below my threshold of 0.05, so it is safe to proceed.
 
-My next step is to plot a new ACF and a new PCAF plot to account for the differencing. 
+My next step is to plot a new ACF and a new PACF plot to account for the differencing. 
 
 ![Apple_diff_ACFPACF](https://github.com/JasonBauer26/Apple_Predictions/assets/145518855/bd1e3218-f36d-43f0-ad1f-472f0c1c9056)
 
