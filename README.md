@@ -1,6 +1,6 @@
 # Apple_Predictions
 In this project I will be attempting to predict Apple closing prices using Time Series Analysis techniques.
-Since this project was done in Google Colab, the dataset can be loaded in as a package from Yahoo finance.
+Since this project was done in Google Colab, the dataset can be loaded in as a package from Yahoo Finance.
 
 The first thing I want to do after loading in the data set is to plot the Autocorrelation Function (ACF) and the Partial Autocorrelation Function (PACF) to check the data for seasonality.
 
